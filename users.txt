@@ -1,0 +1,2 @@
+shashankchandgude@gmail.com:{'Mobile_no': '09325159225', 'Meter_Id': '789456123', 'First_name': 'Shashank', 'Last_name': 'Chandgude', 'Address': 'Aarambh apt near TC college Baramati', 'City': 'Baramati', 'State': 'Maharashtra', 'Postal_Code': '413102'}
+joshiprutha09@gmail.com:{'Mobile_no': '9325159225', 'Meter_Id': '123456789', 'First_name': 'Prutha', 'Last_name': 'Joshi', 'Address': 'aaad', 'City': 'Pune', 'State': 'Maharshtra', 'Postal_Code': '411009'}

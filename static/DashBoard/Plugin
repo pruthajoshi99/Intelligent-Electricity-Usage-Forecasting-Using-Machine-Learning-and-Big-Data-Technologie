@@ -1,0 +1,26 @@
+import pandas as pd
+from statsmodels.tsa.arima_model import ARIMA
+model = ARIMA(df_log, order=(3,1,3))
+result_AR = model.fit(disp = 0)
+plt.plot(df_log_diff)
+plt.plot(result_AR.fittedvalues, color='red')
+plt.title("sum of squares of residuals")
+print('RSS : %f' %sum((result_AR.fittedvalues-df_log_diff["Consumption"])**2))
+import pickle
+
+df = pd.read_csv("Electric_Production.csv")
+#use required features
+cdf = df[['Date','Value']]
+
+#Training Data and Predictor Variable
+# Use all data for training (tarin-test-split not used)
+x = cdf.iloc[:, :3]
+y = cdf.iloc[:, -1]
+and = ARIMA()
+
+#Fitting model with trainig data
+and.fit(x, y)
+
+# Saving model to current directory
+# Pickle serializes objects so they can be saved to a file, and loaded in a program again later on.
+pickle.dump(regressor, open('model.pkl','wb'))

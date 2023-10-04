@@ -1,0 +1,39 @@
+{"intents": [
+    {"tag": "hello",
+     "patterns": ["Hi", "Hey", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+     "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?", "Hello! I'm EnergyBot. How may I help you?", "Hey there!"],
+     "context_set": ""
+    },
+    {"tag": "bye",
+     "patterns": ["Bye","cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "cya later", "I gotta go now", "I gotta rush now"],
+     "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+     "context_set": ""
+    },
+    {"tag": "energy",
+     "patterns": ["Show consumption of current day","Forecast today's utilization","What is my present day energy consumption?"],
+     "responses": [""],
+     "context_set": ""
+    },
+    {"tag": "consumption",
+            "patterns": ["From where to see my energy consumption?"],
+            "responses": ["Visualization tab on the website will show your consumption "],
+            "context_set": ""
+    },
+    {"tag": "futureforecast",
+     "patterns": ["From where to see my energy forecasting?"],
+     "responses": ["Forecasting tab on the website will show your forecast "],
+     "context_set": ""
+    },
+    {"tag": "electrician",
+     "patterns": ["contact information", "contact us", "how can i contact electrician", "can i get the contact details", "Display the firehazard contact person details"],
+     "responses": ["You can register your complaints at this toll free no 1800-102-3435,1800-233-3435"],
+     "context_set": ""
+    },
+
+    {"tag": "reduce",
+     "patterns": ["What are different ways to reduce electricity consumption?","Please guide me some ways for less utilization of electricity", "suggest methods or ways to minimize eletricity usage"],
+     "responses": ["You can contribute towards less utilization of electricity by following some instructions regularly: 1- Turn off the lights when not in use 2- Check the lights/fan while leaving house 3- Go for green energy  4- Opt for solar energy resources 5- Consume less energy for a 'brighter' and 'light' future :) 6 - Use non-renewable energy resources as far as possible 7 - Use natural light whenever available 8 - Opt for task lighting 9 - Unlpug your unsed electronics 10 - When not at home turn off the air conditioner"],
+     "context_set": ""
+    }
+]
+}

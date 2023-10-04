@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\BE Project\\Flask_30.5.21\\model.tflearn"
+all_model_checkpoint_paths: "D:\\BE Project\\Flask_30.5.21\\model.tflearn"
