@@ -19,13 +19,13 @@ We propose a feasible solution in the form of a hardware module that works on th
 
 1. Login
 <br/>
-<img width="833" alt="Screen Shot 2023-10-09 at 8 58 18 PM" src="https://github.com/pruthajoshi99/Smart-Energy-Meter-With-Forecasting/assets/122393647/da46c4bc-a433-4e44-a215-9f2c0cbfee86">
+<img width="833" alt="Screen Shot 2023-10-09 at 8 58 18 PM" src="https://github.com/pruthajoshi99/Intelligent-Electricity-Usage-Forecasting-Using-Machine-Learning-and-Big-Data-Technologie/assets/122393647/6e617e80-f308-4985-8b4b-d1a9054fc194">
 <br/>
 <br/>
-
 2. Main Page
 <br/>
-<img width="1279" alt="Screen Shot 2023-10-09 at 8 58 41 PM" src="https://github.com/pruthajoshi99/Smart-Energy-Meter-With-Forecasting/assets/122393647/a63e562b-d8a7-4194-bf0c-b2e5c43c09e7">
+<img width="1279" alt="Screen Shot 2023-10-09 at 8 58 41 PM" src="https://github.com/pruthajoshi99/Intelligent-Electricity-Usage-Forecasting-Using-Machine-Learning-and-Big-Data-Technologie/assets/122393647/18e378c5-3760-4380-9023-f1b5c1f0b808">
+
 
 
 
